@@ -27,7 +27,7 @@ A lightweight Pong clone built with C# WinForms. This simple game demonstrates b
 1. **Clone the repository** (assuming remote is set up):
 
    ```bash
-   git clone [https://github.com/yourusername/zoni-pong.git](https://github.com/zoni-group/pong.git)
+   git clone https://github.com/yourusername/zoni-pong.git
    cd zoni-pong
    ```
 
