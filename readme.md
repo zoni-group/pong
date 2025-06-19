@@ -28,7 +28,7 @@ A lightweight Pong clone built with C# WinForms. This simple game demonstrates b
 
    ```bash
    git clone https://github.com/zoni-group/pong.git
-   cd zoni-pong
+   cd pong
    ```
 
 2. **Restore and build**:
