@@ -1,0 +1,72 @@
+# ========================
+# Build directories
+# ========================
+/bin/
+/obj/
+
+# ========================
+# Visual Studio
+# ========================
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ========================
+# Rider / IntelliJ
+# ========================
+.idea/
+*.sln.iml
+
+# ========================
+# VS Code
+# ========================
+.vscode/
+
+# ========================
+# NuGet
+# ========================
+*.nupkg
+packages/
+
+# ========================
+# Test results
+# ========================
+TestResults/
+
+# ========================
+# Publish output
+# ========================
+/publish/
+/*.publish.xml
+
+# ========================
+# Generated files
+# ========================
+Generated Files/
+
+# ========================
+# MSBuild / SDK
+# ========================
+project.assets.json
+project.nuget.cache
+*.AssemblyInfo.cs
+
+# ========================
+# User-specific files
+# ========================
+*.csproj.user
+*.userprefs
+
+# ========================
+# Mono
+# ========================
+mono_crash.*
+
+# ========================
+# OS junk
+# ========================
+.DS_Store
+Thumbs.db
+desktop.ini
